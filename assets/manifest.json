@@ -1,0 +1,255 @@
+{
+  "palette": [
+    "#2E1A2B",
+    "#7A4A63",
+    "#D49BA7",
+    "#FBEFE2"
+  ],
+  "images": {
+    "alice": {
+      "file": "alice.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 6,
+      "names": [
+        "down-0",
+        "down-1",
+        "up-0",
+        "up-1",
+        "left-0",
+        "left-1"
+      ]
+    },
+    "boot-gag": {
+      "file": "boot-gag.png",
+      "kind": "image",
+      "frameWidth": 48,
+      "frameHeight": 24,
+      "frameCount": 1
+    },
+    "favicon": {
+      "file": "favicon.png",
+      "kind": "image",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "font-dark": {
+      "file": "font-dark.png",
+      "kind": "sheet",
+      "frameWidth": 8,
+      "frameHeight": 8,
+      "frameCount": 81,
+      "charset": "0123456789 !\"'()+,-./:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz&—…►▼"
+    },
+    "font-light": {
+      "file": "font-light.png",
+      "kind": "sheet",
+      "frameWidth": 8,
+      "frameHeight": 8,
+      "frameCount": 81,
+      "charset": "0123456789 !\"'()+,-./:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz&—…►▼"
+    },
+    "item-drinkme": {
+      "file": "item-drinkme.png",
+      "kind": "image",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "item-eatme": {
+      "file": "item-eatme.png",
+      "kind": "image",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "item-mushroom": {
+      "file": "item-mushroom.png",
+      "kind": "image",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "item-placecard": {
+      "file": "item-placecard.png",
+      "kind": "image",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "items-tea": {
+      "file": "items-tea.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 5,
+      "names": [
+        "teacup",
+        "saucer",
+        "teapot",
+        "sugar",
+        "spoon"
+      ]
+    },
+    "npc-card-two": {
+      "file": "npc-card-two.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 2,
+      "names": [
+        "idle-0",
+        "idle-1"
+      ]
+    },
+    "npc-caterpillar": {
+      "file": "npc-caterpillar.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 2,
+      "names": [
+        "idle-0",
+        "idle-1"
+      ]
+    },
+    "npc-cheshire": {
+      "file": "npc-cheshire.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 2,
+      "names": [
+        "idle-0",
+        "idle-1"
+      ]
+    },
+    "npc-dodo": {
+      "file": "npc-dodo.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 2,
+      "names": [
+        "idle-0",
+        "idle-1"
+      ]
+    },
+    "npc-hatter": {
+      "file": "npc-hatter.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 2,
+      "names": [
+        "idle-0",
+        "idle-1"
+      ]
+    },
+    "npc-mouse": {
+      "file": "npc-mouse.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 6,
+      "names": [
+        "down-0",
+        "down-1",
+        "up-0",
+        "up-1",
+        "left-0",
+        "left-1"
+      ]
+    },
+    "npc-rabbit": {
+      "file": "npc-rabbit.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 2,
+      "names": [
+        "idle-0",
+        "idle-1"
+      ]
+    },
+    "ornament-corner": {
+      "file": "ornament-corner.png",
+      "kind": "image",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "ornament-heart": {
+      "file": "ornament-heart.png",
+      "kind": "image",
+      "frameWidth": 8,
+      "frameHeight": 8,
+      "frameCount": 1
+    },
+    "tiles-garden": {
+      "file": "tiles-garden.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 16,
+      "names": [
+        "grass",
+        "path",
+        "hedge",
+        "water",
+        "roses",
+        "table-l",
+        "table-m",
+        "table-r",
+        "chair",
+        "sign",
+        "gate",
+        "flowers",
+        "arch",
+        "low-wall",
+        "rabbit-hole",
+        "roses-red"
+      ]
+    },
+    "tiles-interior": {
+      "file": "tiles-interior.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 4,
+      "names": [
+        "floor-hall",
+        "wall-hall",
+        "door-locked",
+        "door-tiny"
+      ]
+    },
+    "title-art": {
+      "file": "title-art.png",
+      "kind": "image",
+      "frameWidth": 24,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "ui-frame": {
+      "file": "ui-frame.png",
+      "kind": "sheet",
+      "frameWidth": 8,
+      "frameHeight": 8,
+      "frameCount": 9,
+      "names": [
+        "tl",
+        "t",
+        "tr",
+        "l",
+        "c",
+        "r",
+        "bl",
+        "b",
+        "br"
+      ]
+    }
+  }
+}
