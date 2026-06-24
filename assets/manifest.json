@@ -93,6 +93,16 @@
         "spoon"
       ]
     },
+    "npc-arendt": {
+      "file": "npc-arendt.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1,
+      "names": [
+        "idle-0"
+      ]
+    },
     "npc-card-two": {
       "file": "npc-card-two.png",
       "kind": "sheet",
@@ -146,6 +156,16 @@
       "names": [
         "idle-0",
         "idle-1"
+      ]
+    },
+    "npc-heidegger": {
+      "file": "npc-heidegger.png",
+      "kind": "sheet",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1,
+      "names": [
+        "idle-0"
       ]
     },
     "npc-mouse": {
